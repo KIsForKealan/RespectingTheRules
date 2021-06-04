@@ -1,2 +1,4 @@
 # RespectingTheRules
-Shooter/Platformer
+Shooter/Platformer Game.
+
+Project tutorial from Shaun Spalding.
